@@ -46,8 +46,10 @@ MenuReactNativeApp/
 │   ├── components/         # Componentes do aplicativo
 │   ├── screens/            # Telas do aplicativo
 │   ├── navigation/         # Navegação
-│   ├── assets/             # Imagens e vídeos
-│   └── App.tsx             # Arquivo principal
+│   └──img/                 # Imagens e vídeos
+|
+├── App.tsx                 # Arquivo principal
+├── backend.js              # Logica backend
 ├── package.json            # Dependências e scripts
 └── README.md               # Documentação
 ```
